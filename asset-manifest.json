@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/incora/static/css/main.a051b0dc.chunk.css",
+    "main.js": "/incora/static/js/main.18c49cac.chunk.js",
+    "main.js.map": "/incora/static/js/main.18c49cac.chunk.js.map",
+    "runtime-main.js": "/incora/static/js/runtime-main.17d1ca75.js",
+    "runtime-main.js.map": "/incora/static/js/runtime-main.17d1ca75.js.map",
+    "static/css/2.d26d1254.chunk.css": "/incora/static/css/2.d26d1254.chunk.css",
+    "static/js/2.7f3af45b.chunk.js": "/incora/static/js/2.7f3af45b.chunk.js",
+    "static/js/2.7f3af45b.chunk.js.map": "/incora/static/js/2.7f3af45b.chunk.js.map",
+    "static/js/3.7647e73b.chunk.js": "/incora/static/js/3.7647e73b.chunk.js",
+    "static/js/3.7647e73b.chunk.js.map": "/incora/static/js/3.7647e73b.chunk.js.map",
+    "index.html": "/incora/index.html",
+    "static/css/2.d26d1254.chunk.css.map": "/incora/static/css/2.d26d1254.chunk.css.map",
+    "static/css/main.a051b0dc.chunk.css.map": "/incora/static/css/main.a051b0dc.chunk.css.map",
+    "static/js/2.7f3af45b.chunk.js.LICENSE.txt": "/incora/static/js/2.7f3af45b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17d1ca75.js",
+    "static/css/2.d26d1254.chunk.css",
+    "static/js/2.7f3af45b.chunk.js",
+    "static/css/main.a051b0dc.chunk.css",
+    "static/js/main.18c49cac.chunk.js"
+  ]
+}
